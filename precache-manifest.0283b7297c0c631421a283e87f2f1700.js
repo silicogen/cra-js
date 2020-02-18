@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73e0500660409cd450a2adc82d56cecc",
+    "revision": "bb91f75b784f792326b1211856eb12be",
     "url": "/cra-js/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cra-js/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "e8d038b8fcf7053b8783",
+    "revision": "5dcec954a212686fa013",
     "url": "/cra-js/static/css/main.021ac242.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cra-js/static/js/2.9c87ee90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8d038b8fcf7053b8783",
-    "url": "/cra-js/static/js/main.e599e91a.chunk.js"
+    "revision": "5dcec954a212686fa013",
+    "url": "/cra-js/static/js/main.ff47ee84.chunk.js"
   },
   {
     "revision": "192c9a1a9198b50c6229",
