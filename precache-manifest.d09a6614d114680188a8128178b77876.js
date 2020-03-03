@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae3503ffad3f285489bfdab33d9ce889",
+    "revision": "ce79d8dc8535b72c22c771e98e35ee80",
     "url": "/cra-js/index.html"
   },
   {
-    "revision": "c3dbbc24293febbe30b2",
+    "revision": "3257d4ac797f6818b2a0",
     "url": "/cra-js/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "23caff9ba49950067cea",
+    "revision": "5efc44858625917b0e64",
     "url": "/cra-js/static/css/main.065f88c3.chunk.css"
   },
   {
-    "revision": "c3dbbc24293febbe30b2",
-    "url": "/cra-js/static/js/2.ba3604a8.chunk.js"
+    "revision": "3257d4ac797f6818b2a0",
+    "url": "/cra-js/static/js/2.9fa91bf2.chunk.js"
   },
   {
     "revision": "0bdc4f0d8b3d84ae6a73bb9902b479ee",
-    "url": "/cra-js/static/js/2.ba3604a8.chunk.js.LICENSE.txt"
+    "url": "/cra-js/static/js/2.9fa91bf2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23caff9ba49950067cea",
-    "url": "/cra-js/static/js/main.cf842385.chunk.js"
+    "revision": "5efc44858625917b0e64",
+    "url": "/cra-js/static/js/main.3a3a16e9.chunk.js"
   },
   {
     "revision": "192c9a1a9198b50c6229",
